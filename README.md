@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFF8F0,100:E8F4FD&height=160&text=%EB%B0%95%EC%84%B1%ED%98%84&fontColor=5C5C5C&fontSize=42&fontAlignY=45&desc=Backend%20%26%20Data&descSize=15&descAlignY=72&animation=fadeIn" alt="header" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:2E2A26,100:1F2A33&height=160&text=%EB%B0%95%EC%84%B1%ED%98%84&fontColor=E8E1D9&fontSize=42&fontAlignY=45&desc=Backend%20%26%20Data&descSize=15&descAlignY=72&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFF8F0,100:E8F4FD&height=160&text=%EB%B0%95%EC%84%B1%ED%98%84&fontColor=5C5C5C&fontSize=42&fontAlignY=45&desc=Backend%20%26%20Data&descSize=15&descAlignY=72&animation=fadeIn" alt="header" width="100%" />
+</picture>
 
 한국폴리텍대학에서 소프트웨어를 공부하고 있습니다.
 Java · Spring Boot 백엔드와 데이터를 배워가는 중입니다.
@@ -22,10 +25,16 @@ Java · Spring Boot 백엔드와 데이터를 배워가는 중입니다.
 
 ### 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com/?user=PSH04man&hide_border=true&background=FFF8F0&ring=A8D8EA&fire=FFCBCB&currStreakLabel=7A9CC6&sideLabels=7A9CC6&currStreakNum=5C5C5C&sideNums=5C5C5C&dates=8A8A8A&stroke=E8F4FD&locale=ko" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PSH04man&hide_border=true&background=1B1F24&ring=A8D8EA&fire=FFCBCB&currStreakLabel=A8D8EA&sideLabels=A8D8EA&currStreakNum=E8E1D9&sideNums=E8E1D9&dates=8A8A8A&stroke=2A2F35&locale=ko" />
+  <img src="https://streak-stats.demolab.com/?user=PSH04man&hide_border=true&background=FFF8F0&ring=A8D8EA&fire=FFCBCB&currStreakLabel=7A9CC6&sideLabels=7A9CC6&currStreakNum=5C5C5C&sideNums=5C5C5C&dates=8A8A8A&stroke=E8F4FD&locale=ko" alt="GitHub Streak" />
+</picture>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8F4FD,100:FFF8F0&height=90&section=footer" alt="footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A33,100:2E2A26&height=90&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8F4FD,100:FFF8F0&height=90&section=footer" alt="footer" width="100%" />
+</picture>
 
 </div>
