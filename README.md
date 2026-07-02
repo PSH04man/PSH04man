@@ -26,8 +26,8 @@ Java · Spring Boot 백엔드와 데이터를 배워가는 중입니다.
 ### 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PSH04man&hide_border=true&background=1B1F24&ring=A8D8EA&fire=FFCBCB&currStreakLabel=A8D8EA&sideLabels=A8D8EA&currStreakNum=E8E1D9&sideNums=E8E1D9&dates=8A8A8A&stroke=2A2F35&locale=ko" />
-  <img src="https://streak-stats.demolab.com/?user=PSH04man&hide_border=true&background=FFF8F0&ring=A8D8EA&fire=FFCBCB&currStreakLabel=7A9CC6&sideLabels=7A9CC6&currStreakNum=5C5C5C&sideNums=5C5C5C&dates=8A8A8A&stroke=E8F4FD&locale=ko" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PSH04man&hide_border=false&border=3D4C63&background=1B1F24&ring=A8D8EA&fire=FFCBCB&currStreakLabel=A8D8EA&sideLabels=A8D8EA&currStreakNum=E8E1D9&sideNums=E8E1D9&dates=8A8A8A&locale=ko" />
+  <img src="https://streak-stats.demolab.com/?user=PSH04man&hide_border=false&border=A8D8EA&background=FFF8F0&ring=A8D8EA&fire=FFCBCB&currStreakLabel=7A9CC6&sideLabels=7A9CC6&currStreakNum=5C5C5C&sideNums=5C5C5C&dates=8A8A8A&locale=ko" alt="GitHub Streak" />
 </picture>
 
 <br>
