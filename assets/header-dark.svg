@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="854" height="160" viewBox="0 0 854 160">
   <defs>
-    <radialGradient id="g" cx="50%" cy="50%" r="75%">
+    <radialGradient id="g" gradientUnits="userSpaceOnUse" cx="427" cy="80" r="480" gradientTransform="translate(427 80) scale(1 0.22) translate(-427 -80)">
       <stop offset="0%" stop-color="#3D4C63"/>
       <stop offset="45%" stop-color="#262B31"/>
       <stop offset="100%" stop-color="#0D1117"/>
