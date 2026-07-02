@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:262B31,100:3D4C63&height=160&text=%EB%B0%95%EC%84%B1%ED%98%84&fontColor=E8E1D9&fontSize=42&fontAlignY=45&desc=Backend%20%26%20Data&descSize=15&descAlignY=72&animation=none&v=2" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F0DBA8,100:CDE4F5&height=160&text=%EB%B0%95%EC%84%B1%ED%98%84&fontColor=4A4A4A&fontSize=42&fontAlignY=45&desc=Backend%20%26%20Data&descSize=15&descAlignY=72&animation=none&v=2" alt="header" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img src="./assets/header-light.svg" alt="header" width="100%" />
 </picture>
 
 한국폴리텍대학에서 소프트웨어를 공부하고 있습니다.
@@ -33,8 +33,8 @@ Java · Spring Boot 백엔드와 데이터를 배워가는 중입니다.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3D4C63,100:262B31&height=90&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDE4F5,100:F0DBA8&height=90&section=footer" alt="footer" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+  <img src="./assets/footer-light.svg" alt="footer" width="100%" />
 </picture>
 
 </div>
