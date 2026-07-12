@@ -1,5 +1,4 @@
 <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/name-dark.svg"><img src="./assets/name-light.svg" alt="박성현" width="180"></picture></div>
-
 ㅤ
 ㅤ
 ---
