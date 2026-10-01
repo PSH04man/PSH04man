@@ -130,11 +130,6 @@ AI 모델을 사람들이 실제로 쓰는 서비스로 만드는 개발자가 �
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PSH04man/PSH04man/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/PSH04man/PSH04man/output/github-snake.svg" alt="contribution snake" width="100%">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
   <img src="./assets/footer-light.svg" width="100%">
 </picture>
