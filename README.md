@@ -90,13 +90,10 @@ flowchart LR
 
 ## Tech Stack
 
-| | 기술 | 쓴 곳 |
-|---|---|---|
-| Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="36"> | 끄덕 화면 개발 |
-| AI | <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"> | 끄덕 이야기 생성, 표정·손동작 인식 |
-| Language | <img src="https://skillicons.dev/icons?i=java,python,c" height="36"> | [프로그래머스 풀이](https://github.com/PSH04man/Programmer)를 세 언어로 |
-| 배우는 중 | <img src="https://skillicons.dev/icons?i=vue,flutter,spring,mariadb,linux" height="36"> | 2학기 수업, [SpringAiBasic](https://github.com/PSH04man/SpringAiBasic) |
-| Tools | <img src="https://skillicons.dev/icons?i=idea,git,github,figma,claude" height="36"> | |
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,spring,vue,flutter,linux,git&perline=11" height="44"><br>
+<sub>1·2학기 수업에서 배우고 있는 기술</sub>
+</div>
 
 <br>
 
