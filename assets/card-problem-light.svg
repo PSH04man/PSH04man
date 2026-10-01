@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210">
+  <style>
+    .t { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif; }
+    .h { font-size: 20px; font-weight: 800; fill: #2F3437; }
+    .s { font-size: 13.5px; font-weight: 500; fill: #5A6472; }
+    .m { font-size: 12px; font-weight: 600; fill: #8A8F98; }
+    .k { font-size: 13.5px; font-weight: 800; fill: #B7862A; }
+  </style>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#CDE4F5"/><stop offset="1" stop-color="#F0DBA8"/></linearGradient></defs>
+  <rect x="1" y="1" width="418" height="208" rx="14" fill="#FFFFFF" stroke="#E3E6EA"/>
+  <rect x="1" y="1" width="418" height="6" rx="3" fill="url(#g)"/>
+  <text x="24" y="44" class="t m">🧩 HOW I SOLVE PROBLEMS</text>
+  <text x="24" y="76" class="t h">정의 → 기준 → 수정 → 기록</text>
+  <text x="24" y="110" class="t s"><tspan class="k">01</tspan>  캐릭터 크기 기준을 눈 사이 거리로 재설계</text>
+  <text x="24" y="136" class="t s"><tspan class="k">02</tspan>  이미지 PNG → JPEG · 정적 파일 캐시</text>
+  <text x="24" y="162" class="t s"><tspan class="k">03</tspan>  온보딩 6 → 5단계, 리포트 탭 5 → 4개</text>
+  <text x="24" y="190" class="t m">외 2건 · 아래 표에서 자세히</text>
+</svg>
